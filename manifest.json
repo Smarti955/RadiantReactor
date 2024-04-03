@@ -1,0 +1,9 @@
+{
+    "name": "RadiantReactor",
+    "short_name": "RadiantReactor",
+    "theme_color": "#1c7c0d",
+    "background_color": "#ebd5f0",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "/"
+}
