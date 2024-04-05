@@ -108,6 +108,14 @@ body {
     margin-right: 20px;
 }
 
+.margin-img-ines {
+    max-width: 100%;
+    height: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
 .margin-hr {
     margin: 50px 20px;
     height: 500px;
@@ -219,15 +227,12 @@ div#elm14 {
     }
 
     .margin-img-right {
+        max-width: 100%;
+        height: auto;
+        margin-left: 20px;
         margin-right: 20px;
+        object-fit: cover;
     }
-}
-
-.margin-img-ines {
-    margin-right: 20px;
-    margin-left: 20px;
-    height: auto;
-    width: auto;
 }
 
 @media screen and (max-width: 980px) {
