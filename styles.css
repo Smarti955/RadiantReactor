@@ -135,6 +135,84 @@ div#elm2 {
     margin-left: 5px;
 }
 
+div#elm3:hover div#elm4 {
+    display: inline-block;
+}
+
+div#elm4 {
+    display: none;
+    background-color: #1c7c0d;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 5px;
+}
+
+div#elm5:hover div#elm6 {
+    display: inline-block;
+}
+
+div#elm6 {
+    display: none;
+    background-color: #1c7c0d;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 5px;
+}
+
+div#elm7:hover div#elm8 {
+    display: inline-block;
+}
+
+div#elm8 {
+    display: none;
+    background-color: #1c7c0d;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 5px;
+}
+
+div#elm9:hover div#elm10 {
+    display: inline-block;
+}
+
+div#elm10 {
+    display: none;
+    background-color: #1c7c0d;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 5px;
+}
+
+div#elm11:hover div#elm12 {
+    display: inline-block;
+}
+
+div#elm12 {
+    display: none;
+    background-color: #1c7c0d;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 5px;
+}
+
+div#elm13:hover div#elm14 {
+    display: inline-block;
+}
+
+div#elm14 {
+    display: none;
+    background-color: #1c7c0d;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 5px;
+}
+
 @media screen and (max-width: 1044px) {
     .margin-text {
         margin-right: 20px;
