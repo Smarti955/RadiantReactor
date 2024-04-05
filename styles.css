@@ -114,7 +114,7 @@ body {
 }
 
 .background-dark {
-    background-color: #ebd5f0;
+    background-color: rgb(233, 233, 233);
 }
 
 .inline-link {
@@ -221,6 +221,13 @@ div#elm14 {
     .margin-img-right {
         margin-right: 20px;
     }
+}
+
+.margin-img-ines {
+    margin-right: 20px;
+    margin-left: 20px;
+    height: auto;
+    width: auto;
 }
 
 @media screen and (max-width: 980px) {
