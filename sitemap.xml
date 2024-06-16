@@ -1,92 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://radiantreactor.netlify.app/</loc>
-  <lastmod>2024-04-14T08:04:55+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://radiantreactor.netlify.app/majak</loc>
-  <lastmod>2024-04-14T08:04:55+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://radiantreactor.netlify.app/windscale</loc>
-  <lastmod>2024-04-14T08:04:55+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://radiantreactor.netlify.app/simi-valley</loc>
-  <lastmod>2024-04-14T08:04:55+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://radiantreactor.netlify.app/lucens</loc>
-  <lastmod>2024-04-14T08:04:55+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://radiantreactor.netlify.app/leningrad</loc>
-  <lastmod>2024-04-14T08:04:55+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://radiantreactor.netlify.app/belojarsk</loc>
-  <lastmod>2024-04-14T08:04:55+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://radiantreactor.netlify.app/three-miles-island</loc>
-  <lastmod>2024-04-14T08:04:55+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://radiantreactor.netlify.app/tschernobyl</loc>
-  <lastmod>2024-04-14T08:04:55+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://radiantreactor.netlify.app/tokaimura</loc>
-  <lastmod>2024-04-14T08:04:55+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://radiantreactor.netlify.app/forsmark</loc>
-  <lastmod>2024-04-14T08:04:55+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://radiantreactor.netlify.app/tricastin</loc>
-  <lastmod>2024-04-14T08:04:55+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://radiantreactor.netlify.app/fukushima</loc>
-  <lastmod>2024-04-14T08:04:55+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://radiantreactor.netlify.app/ines</loc>
-  <lastmod>2024-04-14T08:04:55+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://radiantreactor.netlify.app/energie-und-massendefekt</loc>
-  <lastmod>2024-04-14T08:04:55+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://radiantreactor.netlify.app/Impressum</loc>
-  <lastmod>2024-04-14T08:04:55+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://radiantreactor.netlify.app/</loc>
+    </url>
+    <url>
+        <loc>https://radiantreactor.netlify.app/belojarsk</loc>
+    </url>
+    <url>
+        <loc>https://radiantreactor.netlify.app/energie-und-massendefekt</loc>
+    </url>
+    <url>
+        <loc>https://radiantreactor.netlify.app/forsmark</loc>
+    </url>
+    <url>
+        <loc>https://radiantreactor.netlify.app/fukushima</loc>
+    </url>
+    <url>
+        <loc>https://radiantreactor.netlify.app/impressum</loc>
+    </url>
+    <url>
+        <loc>https://radiantreactor.netlify.app/ines</loc>
+    </url>
+    <url>
+        <loc>https://radiantreactor.netlify.app/leningrad</loc>
+    </url>
+    <url>
+        <loc>https://radiantreactor.netlify.app/majak</loc>
+    </url>
+    <url>
+        <loc>https://radiantreactor.netlify.app/simi-valley</loc>
+    </url>
+    <url>
+        <loc>https://radiantreactor.netlify.app/three-miles-island</loc>
+    </url>
+    <url>
+        <loc>https://radiantreactor.netlify.app/tokaimura</loc>
+    </url>
+    <url>
+        <loc>https://radiantreactor.netlify.app/tricastin</loc>
+    </url>
+    <url>
+        <loc>https://radiantreactor.netlify.app/tschernobyl</loc>
+    </url>
+    <url>
+        <loc>https://radiantreactor.netlify.app/windscale</loc>
+    </url>
 </urlset>
